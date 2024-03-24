@@ -138,7 +138,7 @@
 # >>>cars = ['bmw','audi','toyota','subaru'] the list has four items so its length is 4.
 # >>>len(cars)
 # another method this is i am writing open terminal type only >>>len ('freelancer') enter you will get answer 10.
-# Python counts the items in a list startin with one, so you shouldn't run into any off-by-oen errors when determining the length of a list.
+# Python counts the items in a list starting with one, so you shouldn't run into any off-by-one errors when determining the length of a list.
 
 # AVOIDING INDEX ERRORS WHEN WORKING WITH LISTS # INDEX MEANS 0.1,2,3,4 #
 # motorcycles = ['honda','yamaha','suzuki']
