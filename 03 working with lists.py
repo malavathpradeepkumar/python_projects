@@ -19,7 +19,7 @@
 # print(magician)
 # Python prints the current value of magician again, which is now 'david' Python repeats the entire loop once more with the last value in the
 # list, 'carolina'. Because no more values are in the list, python moves on to the next line in the program. In this case nothing comes after the
-# for loop, so the program ends. Whenb you're using for the firt time, keep in mind that the set of steps is repeated once for each item in the list,
+# for loop, so the program ends. When you're using for the firt time, keep in mind that the set of steps is repeated once for each item in the list,
 # If you have a million items in your list, python repeats these steps a million times-and usually very quickly. Also keep in mind when writing
 # your own for loops that you can choose any name you want for the temporary variable that will be associated with each value in the list.
 # However, it's helpful to choose a meaningful name that represents a single item form the list. For example, here's good way to start a for loop
