@@ -15,6 +15,47 @@
 #print(name.upper())
 #print(name.lower())
 
+#COMBINING OR CONCATENATING STRINGS
+# It’s often useful to combine strings. For example, you might want to store
+# a first name and a last name in separate variables, and then combine them
+# when you want to display someone’s full name:
+# first_name = "ada"
+# last_name = "lovelace"
+# full_name = first_name + " " + last_name
+# print(full_name)
+# Python uses the plus symbol (+) to combine strings. In this example,
+# we use + to create a full name by combining a first_name, a space, and a last name
+
+# SECOND METHOD
+# first_name = 'malavath'
+# last_name = 'pradeep'
+# full_name = first_name + ' ' + last_name
+# print('Hello, ' + full_name.title() + '!')
+
+# THIRD METHOD
+# sur_name = 'malavath'
+# first_name = 'pradeep'
+# last_name = 'kumar'
+# full_name = sur_name + ' ' + first_name + ' ' + last_name
+# print(full_name)
+
+# first_name = "ada"
+# last_name = "lovelace"
+# full_name = first_name + " " + last_name
+# print("Hello, " + full_name.title() + "!")
+
+# first_name = 'malavath pradeep'
+# last_name = 'kumar'
+# full_name = first_name + ' ' + last_name
+# print('Hello, ' + full_name.title() + '!')
+
+# You can use concatenation to compose a message and then store the entire message in a variable
+# first_name = "ada"
+# last_name = "lovelace"
+# full_name = first_name + " " + last_name
+# message = "Hello, " + full_name.title() + "!"
+# print(message)
+
 #USING VARIABLE IN STRINGS F STRINGS F FOR FORMAT
 #first_name = 'malavath'
 #last_name = 'pradeep kumar'
