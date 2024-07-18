@@ -6,6 +6,14 @@
 # name in the list. It might help to read this code as For every magician in the list of magicians, print the magician's name. The output is a
 # simple printout of each name in the list:
 
+# UNDERSTANDING VARIABLE AND VALUE IN A LOOP #
+# in this above example for magician in magicians line (in magician varaiable assigns only one value or item for example)
+# magician (observe only singular) = ['alice','david','carolina'] this is wrong in loop it does not take like this.
+# magician = 'alice' next line run untill loop finish after 1st loop finish next
+# magician = 'david' next line run untill loop finish after 2nd loop finish next
+# magician = 'carolina' this is in a loop variable work only take singile value or item. must remember.
+
+
  # A CLOSER LOOK AT LOOPING #
  #  For example, in a simple loop like we used in magicians.py, Python initially reads the firt line of the loop:
  # for magician in magicians:
