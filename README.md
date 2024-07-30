@@ -1,1 +1,0 @@
-# 01-variable_and_simple_data_types
