@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="248c1fa1-cd82-4f34-bf20-3e76ac51679f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/helloworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 user input and while loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google mapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 variables and simple data types.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 variables and simple data types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 introducing lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 introducing lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 working with lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 working with lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 If Statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 If Statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 dictionaries.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hp6sBh0z1TBYHTLIIxVhhp0VIh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01 variables and simple data types.executor": "Run",
+    "Python.04 If Statements.executor": "Run",
+    "Python.05 dictionaries.executor": "Run",
+    "Python.07 user input and while loops.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "Python.trash.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Rebasing main",
+    "last_opened_file_path": "/home/thor/helloworld",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="248c1fa1-cd82-4f34-bf20-3e76ac51679f" name="Changes" comment="" />
+      <created>1718278876318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718278876318</updated>
+    </task>
+    <servers />
+  </component>
+</project>
