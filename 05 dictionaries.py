@@ -407,3 +407,51 @@
 #     print(f"{name.title()}'s favorite languages are:")
 #     for language in languages:
 #         print(f'\t{language.title()}')
+"""The value associated with each name in favorite_languages is now a list. Note that some people have one favorite language and
+others have multiple favorites. When we loop through the dictionary , we use the variable name languages to hold each value from
+the dictionary, because we know that each value will be a list. Inside the main dictionary loop, we use another for loop to run through
+each person’s list of favorite languages. Now each person can list as many favorite languages as they like: To refine this program
+even further, you could include an if statement at the beginning of the dictionary’s for loop to see whether each person has
+more than one favorite language by examining the value of len(languages). If a person has more than one favorite, the output would
+stay the same. If the person has only one favorite language, you could change the wording to reflect that. For example, you could say,
+“Sarah’s favorite language is C. You should not nest lists and dictionaries too deeply. If you’re nesting items much
+deeper than what you see in the preceding examples, or if you’re working with someone else’s code with significant levels of nesting,
+there’s most likely a simpler way to solve the problem.”"""
+
+# A DICTIONARY IN A DICTIONARY #
+
+# You can nest a dictionary inside another dictionary
+# users = {
+#     'aeinstein': {
+#         'first': 'albert',
+#         'last': 'einstein',
+#         'location': 'princeton',
+#     },
+#     'mcurie': {
+#         'first': 'marie',
+#         'last': 'curie',
+#         'location': 'paris',
+#     },
+# }
+# for username, user_info in users.items():
+#     print(f'\nUsername: {username}')
+#     full_name = f'{user_info['first']} {user_info['last']}'
+#     location = user_info['location']
+#     print(f'\tFull name: {full_name.title()}')
+#     print(f'\tLocation: {location.title()}')
+"""Outer Dictionary users
+users is a dictionary where each key is a username, and the corresponding value is another dictionary with user details.
+Keys in users dictionary: 'aeinstein' and 'mcurie'.
+Values in users dictionary: Nested dictionaries 
+Nested Dictionaries
+Each value in the users dictionary is itself a dictionary:
+Inside this nested dictionary:
+Keys: 'first', 'last', and 'location'
+Values: 'albert', 'einstein', and 'princeton' respectively.
+ # for username, user_info in users.items(): #
+ username: Holds the key from the outer dictionary (e.g., 'aeinstein').
+user_info: Holds the corresponding value (e.g., {'first': 'albert', 'last': 'einstein', 'location': 'princeton'}).
+user_info["first"]: Accesses the value 'albert' using the key 'first'.
+user_info["last"]: Accesses the value 'einstein' using the key 'last'.
+user_info['location']: Accesses the value 'princeton' using the key 'location'.
+"""
